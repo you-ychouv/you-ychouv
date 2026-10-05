@@ -2,7 +2,7 @@
 
 🎓 École Polytechnique, IP Paris — Applied Mathematics & Data Science
 
-Currently a third-year engineering student. 
+Currently a third-year engineering student (M1) in the Cycle Ingénieur Polytechnicien. 
 
 🔬 Interested in:
 Machine Learning · Data Science · Optimization · AI · Statistics 
