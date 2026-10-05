@@ -1,6 +1,7 @@
 # Hey, I'm You Y.
 
 🎓 École Polytechnique, IP Paris — Applied Mathematics & Data Science
+
 Currently a third-year engineering student. 
 
 🔬 Interested in:
