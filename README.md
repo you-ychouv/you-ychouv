@@ -2,15 +2,18 @@
 
 🎓 École Polytechnique, IP Paris — Applied Mathematics & Data Science
 
-Currently a third-year engineering student (M1) in the Cycle Ingénieur Polytechnicien. 
+Currently a third-year engineering student (M1) in Cycle Ingénieur Polytechnicien. 
 
 🔬 Interested in:
-Machine Learning · Data Science · Optimization · AI · Statistics 
+Mathematics behind/applied to these domains: Machine Learning, Data Science&AI and especially Statistics.
 
-## Projects
+## Some Practice Projects
 
-🧠 Plant Disease Classification
-→ Classification / Computer Vision
+- Mini ML Project
+
+Machine learning project exploring data preprocessing, exploratory data analysis, model training, and evaluation.
+
+[View project →](https://github.com/you-ychouv/Mini-Project)
 
 
 ## Skills
