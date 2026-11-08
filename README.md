@@ -17,7 +17,7 @@ Machine learning project exploring data preprocessing, exploratory data analysis
 
 - A mini introduction to hand-on exp on RAG
   
-[View project →](https://github.com/you-ychouv/A-small-project-with-RAG)
+[View project →](https://github.com/you-ychouv/A-small-project-with-RAG-.git)
 
 ## Skills
 
